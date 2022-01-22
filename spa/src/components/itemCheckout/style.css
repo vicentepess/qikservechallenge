@@ -1,0 +1,8 @@
+.checkout-item-container {
+    display: flex;
+    width: 18%;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    padding: 5px;
+}
